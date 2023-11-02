@@ -1,2 +1,3 @@
 # FOODexplorerWebsite
-Recipes Knowledge across the globe 
+Recipes Knowledge across the globe for food lovers
+
